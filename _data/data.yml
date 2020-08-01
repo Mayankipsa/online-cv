@@ -12,98 +12,82 @@ sidebar:
     avatar: mayank.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: mayankipsa@gmail.com
+    phone: +91 9579590071
+    website: mayankguptaji.com #do not add http://
+    linkedin: mayankguptaji
+    github: mayankipsa
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    twitter: 'guptamayankji'
+    stack-overflow: 2150936/mayank-gupta # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Hindi
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
 
     interests:
-      - item: Climbing
+      - item: Adventure Sports
         link:
 
-      - item: Snowboarding
+      - item: Chess
         link:
 
-      - item: Cooking
-        link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Full Stack Developer and System Designer with 8+ years of quality experience in C#, ASP .Net Core, ASP .Net MVC, Web API,
+      Entity Framework, Azure Cloud, CSS, HTML, JavaScript & Angular. Experience in Banking, Telecom and Industrial Domains.
+      Strengths: Leadership qualities, good communication skills , team player with excellent analytical and problem solving skills and
+      solution creator.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
+    - degree: B.E. in Electronics & Communication
+      university: RGPV University
       time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      # details: |
+      #   Describe your study here lorem ipsum dolor sit amet, consectetuer
+      #   adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+      #   sociis natoque penatibus et magnis dis parturient montes, nascetur
+      #   ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+      #   pretium quis, sem.
+      #     - Bullet point
+      #     - Bullet point
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
+    - role: Technical Lead
+      time: 2018 - Present
+      company: HCL Technologies, Noida
+      - Created Requirement Architecture, Enterprise Architecture and Technical Proposal for JCH Air Cloud Select Software
+        and proposed the same to client which helped in acquiring the project with initial billing of one team of 8 developers and
+        later evolved into a team of around 30 developers and testers.
+      - Working as Lead Web Developer for VRF Selection Software and playing a techno management role. Involved 80% in
+        design & coding and 20% in team management/tracking.
+      - Responsible for end to end development and deployments of JCH Air Cloud Select Web application in Azure Cloud.
+      - Responsible for estimations and creation of low level tasks for user stories and assigning those to team members as per
+        team members capability and complexity of task.
+      - Responsible for Coding and development of application using ASP .Net Core MVC & Web API with Entity Framework
+        and Azure SQL DB as Database.
+      - Responsible for Development of VRF Selection Software UI using ReactJS.
     - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+      time: 2017- 2018
+      company: Omni Integration, Noida
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+      - Worked as an Individual Contributor.
+      - Responsible for end-to-end development of software from requirement analysis to system study, designing, coding,
+        debugging, bug-fixing and deployments in Azure Cloud.
+      - Created customized boards using ASP.Net MVC by consuming JIRA APIs.
+      - Implemented Solution using Azure Active Directory.
+      - Implemented Authentication and Authorization of Users and Data was managed in MongoDB.
+      - Design & Coding: 90% , Team Management & Support: 10%
+      
     - role: UI Developer
       time: 2012 - 2014
       company: Amazon, London
@@ -142,49 +126,58 @@ projects:
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: C#
+        level: 90%
+
+      - name: .Net Core, Web API & MVC
+        level: 90%
+
+      - name: Azure & AWS
+        level: 80%
 
       - name: Javascript & jQuery
-        level: 98%
+        level: 90%
 
-      - name: Angular
-        level: 98%
+      - name: ReactJS
+        level: 70%
+
+      - name: MongoDB(NoSQL)
+        level: 80%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: BootStrap
+        level: 80%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: SQL
+        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
