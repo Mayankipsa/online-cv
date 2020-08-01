@@ -65,7 +65,7 @@ experiences:
     - role: Technical Lead
       time: 2018 - Present
       company: HCL Technologies, Noida
-      details:
+      details: |
         - Created Requirement Architecture, Enterprise Architecture and Technical Proposal for JCH Air Cloud Select Software
           and proposed the same to client which helped in acquiring the project with initial billing of one team of 8 developers and
           later evolved into a team of around 30 developers and testers.
