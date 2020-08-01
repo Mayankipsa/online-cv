@@ -65,28 +65,29 @@ experiences:
     - role: Technical Lead
       time: 2018 - Present
       company: HCL Technologies, Noida
-      - Created Requirement Architecture, Enterprise Architecture and Technical Proposal for JCH Air Cloud Select Software
-        and proposed the same to client which helped in acquiring the project with initial billing of one team of 8 developers and
-        later evolved into a team of around 30 developers and testers.
-      - Working as Lead Web Developer for VRF Selection Software and playing a techno management role. Involved 80% in
-        design & coding and 20% in team management/tracking.
-      - Responsible for end to end development and deployments of JCH Air Cloud Select Web application in Azure Cloud.
-      - Responsible for estimations and creation of low level tasks for user stories and assigning those to team members as per
-        team members capability and complexity of task.
-      - Responsible for Coding and development of application using ASP .Net Core MVC & Web API with Entity Framework
-        and Azure SQL DB as Database.
-      - Responsible for Development of VRF Selection Software UI using ReactJS.
+        - Created Requirement Architecture, Enterprise Architecture and Technical Proposal for JCH Air Cloud Select Software
+          and proposed the same to client which helped in acquiring the project with initial billing of one team of 8 developers and
+          later evolved into a team of around 30 developers and testers.
+        - Working as Lead Web Developer for VRF Selection Software and playing a techno management role. Involved 80% in
+          design & coding and 20% in team management/tracking.
+        - Responsible for end to end development and deployments of JCH Air Cloud Select Web application in Azure Cloud.
+        - Responsible for estimations and creation of low level tasks for user stories and assigning those to team members as per
+          team members capability and complexity of task.
+        - Responsible for Coding and development of application using ASP .Net Core MVC & Web API with Entity Framework
+          and Azure SQL DB as Database.
+        - Responsible for Development of VRF Selection Software UI using ReactJS.
+
     - role: Senior Software Engineer
       time: 2017- 2018
       company: Omni Integration, Noida
       details: |
-      - Worked as an Individual Contributor.
-      - Responsible for end-to-end development of software from requirement analysis to system study, designing, coding,
-        debugging, bug-fixing and deployments in Azure Cloud.
-      - Created customized boards using ASP.Net MVC by consuming JIRA APIs.
-      - Implemented Solution using Azure Active Directory.
-      - Implemented Authentication and Authorization of Users and Data was managed in MongoDB.
-      - Design & Coding: 90% , Team Management & Support: 10%
+        - Worked as an Individual Contributor.
+        - Responsible for end-to-end development of software from requirement analysis to system study, designing, coding,
+          debugging, bug-fixing and deployments in Azure Cloud.
+        - Created customized boards using ASP.Net MVC by consuming JIRA APIs.
+        - Implemented Solution using Azure Active Directory.
+        - Implemented Authentication and Authorization of Users and Data was managed in MongoDB.
+        - Design & Coding: 90% , Team Management & Support: 10%
       
     - role: UI Developer
       time: 2012 - 2014
