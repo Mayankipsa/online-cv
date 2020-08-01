@@ -48,6 +48,38 @@ career-profile:
       Entity Framework, Azure Cloud, CSS, HTML, JavaScript & Angular. Experience in Banking, Telecom and Industrial Domains.
       Strengths: Leadership qualities, good communication skills , team player with excellent analytical and problem solving skills and
       solution creator.
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: C#
+        level: 90%
+
+      - name: .Net Core, Web API & MVC
+        level: 90%
+
+      - name: Azure & AWS
+        level: 80%
+
+      - name: Javascript & jQuery
+        level: 90%
+
+      - name: ReactJS
+        level: 70%
+
+      - name: MongoDB(NoSQL)
+        level: 80%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: BootStrap
+        level: 80%
+
+      - name: SQL
+        level: 70%
+
 education:
     - degree: B.E. in Electronics & Communication
       university: RGPV University
@@ -90,9 +122,9 @@ experiences:
         - Implemented Authentication and Authorization of Users and Data was managed in MongoDB.
         - Design & Coding: 90% , Team Management & Support: 10%
       
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Systems Analyst
+      time: 2014 - 2017
+      company: Techmahindra, Pune & Manchester
       details: |
         Describe your role here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
@@ -150,36 +182,6 @@ projects:
 #         authors: Edgar T. Irons
 #         conference: "Comm. ACM 4 (1961), 51–55"
 
-skills:
-    title: Skills &amp; Proficiency
-
-    toolset:
-      - name: C#
-        level: 90%
-
-      - name: .Net Core, Web API & MVC
-        level: 90%
-
-      - name: Azure & AWS
-        level: 80%
-
-      - name: Javascript & jQuery
-        level: 90%
-
-      - name: ReactJS
-        level: 70%
-
-      - name: MongoDB(NoSQL)
-        level: 80%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: BootStrap
-        level: 80%
-
-      - name: SQL
-        level: 70%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
