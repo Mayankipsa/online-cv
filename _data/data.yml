@@ -53,30 +53,27 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: C#
+      - name: C# & Web API 
         level: 90%
 
-      - name: .Net Core, Web API & MVC
+      - name: .Net Core & MVC
         level: 90%
 
       - name: Azure & AWS
         level: 80%
 
-      - name: Javascript & jQuery
-        level: 90%
+      - name: HTML5 & CSS3
+        level: 85%
 
-      - name: ReactJS
+      - name: Javascript & jQuery
+        level: 80%
+
+      - name: ReactJS & Bootstrap
         level: 70%
 
-      - name: MongoDB(NoSQL)
+      - name: MongoDB - NoSQL
         level: 80%
-
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: BootStrap
-        level: 80%
-
+ 
       - name: SQL
         level: 70%
 
@@ -147,32 +144,32 @@ experiences:
 projects:
     title: Projects
     intro: >
-      Following are the projects developed and contributed.
+      Designed and developed following projects.
       
     assignments:
       - title: CBA Daily IQ - Analytics Application
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        link: "https://www.commbank.com.au/business/online-banking/commbiz/daily-iq.html"
+        tagline: "Common Wealth Bank of Australia(CBA) has a Web tool named as DailyIQ. This tool is used by different merchants having more than 15 million Transactions in a year. Daily IQ provides insight into Sales for different age groups, genders and date ranges."
 
       - title: VRF Selection Software
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        link: "https://aircloudhome.hitachiaircon.com/en"
+        tagline: "VRF Selection Software is a product developed for Johnson's Control & Hitachi. This product is used by the field agents to analyze and create a blueprint of the plan of installation and cost for setting up VRF System for very large Building/Premises. Agents use VRF tool for Piping and wiring schematics and generate a report. This tool has canvas involved where User can select Units and create HVAC Systems as per his need."
 
       - title: Omni Channel Project Planner - Project Management Web Application
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        # link: "#"
+        tagline: "An application was developed in order to maintain project from End to End perspective."
 
       - title: Tools Tests & Diagnostics Application
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        link: "https://www.talktalk.co.uk/"
+        tagline: "Tools Tests & Diagnostics was developed for TalkTalk - A British Telecom company. This tool helps to identify issues occurring on a Phone Number and exact root cause of the problem."
 
       - title: Copilot - Financial Portfolio Management Application
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        link: "https://www.pnc.com/en"
+        tagline: "Copilot was developed for PNC Bank of America. This tool was used by the Agents of PNC Bank to generate finacial portfolios for their clients. With the help of this tool Agents can define where and how investements will happen for this customer."
 
       - title: Quadrotor Helicopter
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        link: "http://quadrotorhelicopter.blogspot.com/"
+        tagline: "Quadrotor Helicopter was developed as a college engineering project. This project was funded by college and attracted attention of News Papers etc."
 
 # publications:
 #     title: Publications
