@@ -109,7 +109,6 @@ experiences:
         - Responsible for Coding and development of application using ASP .Net Core MVC & Web API with Entity Framework
           and Azure SQL DB as Database.
         - Responsible for Development of VRF Selection Software UI using ReactJS.
-
     - role: Senior Software Engineer
       time: 2017- 2018
       company: Omni Integration, Noida
@@ -118,45 +117,60 @@ experiences:
         - Responsible for end-to-end development of software from requirement analysis to system study, designing, coding,
           debugging, bug-fixing and deployments in Azure Cloud.
         - Created customized boards using ASP.Net MVC by consuming JIRA APIs.
-        - Implemented Solution using Azure Active Directory.
+        - Implemented Solutions using Azure Active Directory.
         - Implemented Authentication and Authorization of Users and Data was managed in MongoDB.
         - Design & Coding: 90% , Team Management & Support: 10%
-      
     - role: Systems Analyst
       time: 2014 - 2017
       company: Techmahindra, Pune & Manchester
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+          - Worked at onshore for telecom British client named as TalkTalk in Manchester, United Kingdom for around a year .
+          - Lead a team of 6 developers and 2 testers.
+          - Developed .Net MVC Enterprise Web Application to run multiple types of diagnostics on CLIs and show obtained results.
+          - Developed call barring feature for IVR System using C#, MVC Application and integrated with C++ application.
+          - Developed CU Engine.
+          - Developed Matrix Editor in order to create dynamic business rules. Optimized performance of Tools Test Diagnostics
+            Presentation Layer.
+          - Created WCF Application to get the results of different kind of diagnostics from multiple sources.
+          - Created Template driven UI in order to achieve fast development for new product types.
+          - Design & Development: 70% , Team Management & Support: 30% .
+    - role: Systems Engineer
+      time: 2012 - 2014
+      company: Tata Consultancy Services, Pune
+      details: |
+        - Developed Banking Investment Application UI using html, css, javascript and JQuery for PNC Bank, USA.
+        - Worked as a Lead UI Developer in team of 8 senior developers. Reviewed and applied best practices of html, css and
+          JQuery.
+        - Developed features like file upload, view uploaded docs, role based access, view client holdings, generate portfolio for
+          clients.
+        - Worked on performance optimization for Copilot Web Application of PNC Bank.
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Following are the projects developed and contributed.
+      
     assignments:
-      - title: Velocity
+      - title: CBA Daily IQ - Analytics Application
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
+      - title: VRF Selection Software
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: Omni Channel Project Planner - Project Management Web Application
         link: "#"
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Tempo
+      - title: Tools Tests & Diagnostics Application
         link: "#"
         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-      - title: Atom
+      - title: Copilot - Financial Portfolio Management Application
         link: "#"
         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: Delta
+      - title: Quadrotor Helicopter
         link: "#"
         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
